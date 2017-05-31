@@ -1,7 +1,7 @@
 Suuji (数字) converter [![Build Status](https://travis-ci.org/bizreach/suuji-converter.svg?branch=master)](https://travis-ci.org/bizreach/suuji-converter)
 ====
 
-Convert suuji (数字) string to numeric value
+Java library to convert suuji (数字) string to numeric value
 
 ## Setup
 
