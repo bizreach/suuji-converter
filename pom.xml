@@ -7,7 +7,7 @@
   <version>1.0.0</version>
   <name>suuji-converter</name>
   <url>https://github.com/bizreach/suuji-converter</url>
-  <description>Convert suuji (数字) string to numeric value</description>
+  <description>Java library to convert suuji (数字) string to numeric value</description>
   <inceptionYear>2017</inceptionYear>
   <licenses>
     <license>
